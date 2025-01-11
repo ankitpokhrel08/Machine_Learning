@@ -4,3 +4,7 @@ pandas
 streamlit
 matplotlib
 watchdog
+flask
+seaborn
+memory_profiler
+scikit-learn
