@@ -1,0 +1,170 @@
+Country,Continent,PC1,PC2,Majority Religion,war,Cluster
+albania,Europe,-0.04370834694293327,0.12860869992599633,Islam,mild,D cluster
+armenia,Europe,-0.06427114556996938,0.10751338889619984,Christianity,mild,D cluster
+austria,Europe,-0.02246396628780193,-0.021612526907162224,Christianity,mild,C cluster
+azerbaijan,Europe,-0.04821574570427931,0.014938748102323133,Islam,mild,C cluster
+belarus,Europe,-0.040629074710251845,0.09249403583593545,Christianity,mild,C cluster
+belgium,Europe,-0.05589454103214144,-0.0382948117443086,Christianity,mild,C cluster
+bosnia and herzegovina,Europe,-0.07184459423918722,0.027190567513365394,Christianity,mild,C cluster
+bulgaria,Europe,0.01805358967755464,0.007377191460735068,Christianity,mild,C cluster
+croatia,Europe,-0.04193455902687903,-0.06174212679038076,Christianity,mild,C cluster
+cyprus,Europe,-0.28591204026443706,-0.21882034154221183,Christianity,mild,A cluster
+denmark,Europe,-0.11275689497847348,-0.11594324757084823,Christianity,mild,A cluster
+estonia,Europe,-0.0025290257447882114,-0.07264325486823002,Christianity,mild,C cluster
+finland,Europe,-0.13233432121531633,-0.10673195770852309,Christianity,mild,A cluster
+france,Europe,-0.19910203347831626,0.12791533706561412,Christianity,heavy,A cluster
+georgia,Europe,-0.008356716290628731,0.02893837202059673,Christianity,mild,C cluster
+germany,Europe,0.010474217301585868,-0.06813691957191523,Christianity,heavy,C cluster
+greece,Europe,-0.28591204026443706,-0.21882034154221183,Christianity,mild,A cluster
+hungary,Europe,-0.1572164119280557,-0.05138037875346727,Christianity,mild,A cluster
+iceland,Europe,0.0322315647435796,-0.13322778615103933,Christianity,no_war,C cluster
+ireland,Europe,-0.11459638599120714,0.01763699158037177,Christianity,mild,A cluster
+italy,Europe,-0.02539011802787556,-0.017209962724754085,Christianity,mild,C cluster
+latvia,Europe,0.18367403109594224,-0.13283835934273813,Christianity,mild,B cluster
+liechtenstein,Europe,-0.03333556099944785,-0.162384227825773,Christianity,no_war,C cluster
+lithuania,Europe,0.015149459045556382,-0.016703819600846947,Christianity,mild,C cluster
+luxembourg,Europe,-0.1323915927413331,-0.05758408525091772,Christianity,mild,A cluster
+malta,Europe,0.12288700363455458,-0.17943665350396434,Christianity,mild,B cluster
+montenegro,Europe,-0.04528357966374864,-0.04700755495699641,Christianity,mild,C cluster
+norway,Europe,0.021756828125872485,-0.11459077719960972,Christianity,mild,C cluster
+poland,Europe,-0.11194678438366076,-0.04670967043926774,Christianity,mild,A cluster
+portugal,Europe,-0.19883838595768227,0.2032688663060998,Christianity,mild,D cluster
+romania,Europe,-0.1556409599055399,0.001813887439446474,Christianity,mild,A cluster
+russia,Europe,-0.01295726636165109,0.05140585408786506,Christianity,heavy,C cluster
+serbia,Europe,0.07241151217323996,-0.12014069900254758,Christianity,mild,B cluster
+slovakia,Europe,-0.028507278973372657,-0.031860565323701344,Christianity,mild,C cluster
+slovenia,Europe,0.018556782539077086,-0.13073482983690962,Christianity,mild,C cluster
+spain,Europe,-0.11581348185985484,0.004730470086335047,Christianity,heavy,A cluster
+sweden,Europe,-0.14859090612313405,-0.049946687376997596,Christianity,mild,A cluster
+switzerland,Europe,-0.029057072168277496,-0.1465713346236826,Christianity,mild,C cluster
+ukraine,Europe,-0.12833357584679625,0.008521424719128567,Christianity,mild,A cluster
+united kingdom,Europe,0.10849466413819248,-0.17035593319246783,Christianity,heavy,B cluster
+argentina,South_,-0.13360545533399798,0.2636778947560058,Christianity,mild,D cluster
+bolivia,South_America,-0.17754243056150007,0.06082492388656947,Christianity,mild,A cluster
+brazil,South_America,-0.22018610009080028,-0.1477214971195999,Christianity,mild,A cluster
+chile,South_America,-0.13545952737252573,0.09803514369246365,Christianity,mild,A cluster
+colombia,South_America,-0.18128402200712967,0.0961565122535693,Christianity,mild,A cluster
+ecuador,South_America,-0.14776178274800864,0.1412329857300648,Christianity,mild,D cluster
+guyana,South_America,0.024423405015108993,-0.029263009606960728,Christianity,mild,C cluster
+paraguay,South_America,-0.1672524544816006,0.24107951105242906,Christianity,mild,D cluster
+peru,South_America,-0.16223016937575174,-0.06363527759292216,Christianity,mild,A cluster
+suriname,South_America,0.022579113541076126,-0.022871635628044295,Christianity,mild,C cluster
+uruguay,South_America,-0.07399905884040567,0.010366069543673606,Christianity,mild,C cluster
+venezuela,South_America,-0.02674721540089205,0.0919704434516318,Christianity,mild,C cluster
+united states of america,North_America,-0.17247368581290407,-0.014111126919404263,Christianity,heavy,A cluster
+canada,North_America,0.06723882706668342,-0.09296126174258765,Christianity,mild,B cluster
+mexico,North_America,-0.17263469049661978,0.08146649281352028,Christianity,mild,A cluster
+guatemala,North_America,-0.14545973479600377,0.04658292101847591,Christianity,mild,A cluster
+cuba,North_America,-0.15223359818411195,0.08836431840230546,Christianity,mild,A cluster
+haiti,North_America,0.010953022951832819,-0.014460503340838409,Christianity,mild,C cluster
+dominican republic,North_America,-0.2691392038503601,0.1095516521068058,Christianity,mild,A cluster
+honduras,North_America,-0.20329287351006958,0.034224015236204636,Christianity,mild,A cluster
+el salvador,North_America,-0.04340328173761486,0.047350811580458445,Christianity,mild,C cluster
+nicaragua,North_America,-0.16472654074435725,0.0318491449584828,Christianity,mild,A cluster
+costa rica,North_America,-0.19506555234539033,-0.1185094740028528,Christianity,mild,A cluster
+panama,North_America,-0.1233087980303303,0.05465822443935847,Christianity,mild,A cluster
+jamaica,North_America,0.1099481401003251,-0.12161671241461502,Christianity,mild,B cluster
+trinidad and tobago,North_America,0.1635083933755794,-0.15318010426008732,Christianity,mild,B cluster
+belize,North_America,-0.02434902253624942,0.025820182614934465,Christianity,no_war,C cluster
+barbados,North_America,0.09029993032982246,0.03790694175670797,Christianity,no_war,C cluster
+grenada,North_America,0.2633369422390441,0.07902580766358329,Christianity,no_war,B cluster
+antigua and barbuda,North_America,0.15743969315717052,-0.051094147156660726,Christianity,no_war,B cluster
+dominica,North_America,0.10546912334160612,-0.04457209150198922,Christianity,no_war,B cluster
+australia,Oceania,0.05505735396900197,-0.04320688088330893,Christianity,mild,C cluster
+papua new guinea,Oceania,0.07213367678242677,0.009539361503742341,Christianity,mild,C cluster
+new zealand,Oceania,0.16479596581345068,-0.14406064940688457,Christianity,mild,B cluster
+fiji,Oceania,0.1409824147633509,-0.09007576895518239,Christianity,mild,B cluster
+solomon islands,Oceania,0.12820263820486535,-0.10562106368393136,Christianity,mild,B cluster
+vanuatu,Oceania,0.24092533814748907,0.004531471619856403,Christianity,no_war,B cluster
+samoa,Oceania,-0.020727807078224345,0.03842029529548319,Christianity,no_war,C cluster
+kiribati,Oceania,0.3391826188197709,0.12697487877329625,Christianity,no_war,B cluster
+federated states of micronesia,Oceania,0.1330838272591125,-0.03287248487901671,Christianity,no_war,B cluster
+tonga,Oceania,0.17644801180939937,-0.2216102465761709,Christianity,no_war,B cluster
+afghanistan,Asia,-0.01714625613940953,0.08159172230485631,Islam,mild,C cluster
+bahrain,Asia,0.010760875140861298,-0.11316413754077699,Islam,mild,C cluster
+bangladesh,Asia,-0.06127137618411304,-0.06601535709714218,Islam,mild,C cluster
+bhutan,Asia,0.07081140189778551,-0.009609998098812545,Buddhism,mild,C cluster
+brunei,Asia,0.0778787017008805,-0.1250353162446785,Islam,no_war,B cluster
+cambodia,Asia,-0.04250502738275717,0.017317957654330605,Buddhism,mild,C cluster
+china,Asia,-0.045530504987097466,0.42240958574341214,Buddhism,heavy,D cluster
+india,Asia,0.04594478745318303,0.011353009972632205,Hinduism,heavy,C cluster
+indonesia,Asia,0.06655870111503326,0.02751048156158871,Islam,mild,C cluster
+iran,Asia,-0.10370945228872766,0.03616716418761788,Islam,mild,A cluster
+iraq,Asia,-0.3433471490901322,-0.11853014317327346,Islam,mild,A cluster
+israel,Asia,-0.08672126918844775,-0.05621849835129833,Judaism,mild,A cluster
+japan,Asia,-0.012342135867278819,-0.07730025489402173,Buddhism,mild,C cluster
+jordan,Asia,-0.10205213371340419,-0.12060514345306096,Islam,mild,A cluster
+kazakhstan,Asia,-0.022462563294702285,0.051077698143183345,Islam,mild,C cluster
+kuwait,Asia,-0.010014377371195206,-0.07860134251863952,Islam,mild,C cluster
+kyrgyzstan,Asia,0.09940912239150848,0.12049417544941625,Islam,mild,D cluster
+laos,Asia,0.08942048269717787,0.16394616585002333,Buddhism,mild,D cluster
+lebanon,Asia,-0.1410619515864384,-0.025326825377466455,Islam,mild,A cluster
+malaysia,Asia,0.1672800304297516,-0.11648044378257548,Islam,mild,B cluster
+maldives,Asia,-0.03518170976711735,-0.0037768676820484942,Islam,no_war,C cluster
+mongolia,Asia,0.02051549793735406,0.07080389803001785,Buddhism,mild,C cluster
+myanmar,Asia,0.13597746078587733,0.005975132187228982,Buddhism,mild,B cluster
+nepal,Asia,-0.00169038424328749,-0.0334243571459536,Hinduism,mild,C cluster
+oman,Asia,0.2172811684140785,-0.07821744015044883,Islam,mild,B cluster
+pakistan,Asia,-0.015423662062951775,0.006273827388869094,Islam,mild,C cluster
+philippines,Asia,-0.17713596228853049,-0.03740590307815751,Christianity,mild,A cluster
+qatar,Asia,-0.023972825417970616,0.007874064738478062,Islam,mild,C cluster
+saudi arabia,Asia,-0.140579306579151,-0.1708457187400687,Islam,mild,A cluster
+singapore,Asia,0.05968671096616915,0.07148298810843684,Buddhism,mild,C cluster
+sri lanka,Asia,0.006644125028474946,-0.024676596461021525,Buddhism,mild,C cluster
+syria,Asia,-0.1270202737359625,0.0698968760739968,Islam,mild,A cluster
+tajikistan,Asia,-0.12356927889961458,-0.10770949822817281,Islam,mild,A cluster
+thailand,Asia,-0.032153262045989034,0.005193538891316477,Buddhism,mild,C cluster
+turkey,Asia,-0.1026356700265538,0.04486665557937721,Islam,mild,A cluster
+turkmenistan,Asia,-0.05026527522803923,0.035760455908265,Islam,mild,C cluster
+united arab emirates,Asia,0.04047827586496712,-0.11893851385094448,Islam,mild,C cluster
+uzbekistan,Asia,0.01637190275053355,0.04795337083412114,Islam,mild,C cluster
+vietnam,Asia,-0.012460808937430809,0.05886478280794587,Buddhism,mild,C cluster
+yemen,Asia,0.005424627011842079,0.03415331568538459,Islam,mild,C cluster
+algeria,Africa,-0.06785738659371363,-0.040955251232004664,Islam,mild,C cluster
+angola,Africa,0.09288606413536199,0.3517091824793508,Christianity,mild,D cluster
+benin,Africa,-0.01795930377136423,0.11195782085969855,Christianity,mild,D cluster
+botswana,Africa,0.1934079661587216,-0.03080103682865172,Christianity,no_war,B cluster
+burkina faso,Africa,0.029804530217640963,0.28121248763138434,Islam,mild,D cluster
+burundi,Africa,0.07632138616277954,-0.008968007211396197,Christianity,mild,C cluster
+cameroon,Africa,0.03294262089649741,-0.07587333620811637,Christianity,mild,C cluster
+central african republic,Africa,0.07298007855956892,0.04427251116925595,Christianity,mild,C cluster
+chad,Africa,0.1055777678374994,0.1080742722551607,Islam,mild,D cluster
+comoros,Africa,0.10911907437210792,-0.019825945555208377,Islam,mild,B cluster
+democratic republic of congo,Africa,0.1368992246875864,0.45979057912152127,Christianity,mild,D cluster
+djibouti,Africa,-0.13783765792050284,0.015164172431328431,Islam,mild,A cluster
+egypt,Africa,-0.145814465937608,-0.16898312659871928,Islam,mild,A cluster
+equatorial guinea,Africa,0.09292587948370869,0.07961627339088564,Christianity,mild,C cluster
+eritrea,Africa,0.009777795931595806,-0.042771585694222285,Christianity,mild,C cluster
+ethiopia,Africa,0.23700742484932852,0.13187349312477376,Christianity,mild,B cluster
+gabon,Africa,0.0340262717787898,0.13124813233754043,Christianity,mild,D cluster
+ghana,Africa,0.1007772456403822,-0.0012557651773404499,Christianity,mild,B cluster
+guinea,Africa,0.20082637980313056,0.20603378044316897,Islam,mild,D cluster
+guinea-bissau,Africa,-0.2277249301926093,-0.04395807610342491,Islam,mild,A cluster
+kenya,Africa,0.21587065380643383,0.07309645529964125,Christianity,mild,B cluster
+lesotho,Africa,0.12151098477422236,-0.20219095487913674,Christianity,mild,B cluster
+liberia,Africa,-0.13640207797658677,-0.19282269159414495,Christianity,mild,A cluster
+libya,Africa,0.08075348380078076,-0.1466520005948239,Islam,mild,B cluster
+madagascar,Africa,0.15234165980175504,-0.1577763655584089,Christianity,mild,B cluster
+malawi,Africa,0.13051047698671606,0.009667782078957375,Christianity,mild,B cluster
+mali,Africa,0.11766048965751379,0.15602198850120144,Islam,mild,D cluster
+mauritania,Africa,0.08197253403609367,-0.10761325503878245,Islam,mild,B cluster
+mauritius,Africa,0.19274471808002666,0.029657525140037364,Hinduism,no_war,B cluster
+morocco,Africa,-0.1489737964858321,-0.1332837669978205,Islam,mild,A cluster
+mozambique,Africa,-0.06877454812648809,0.1239219496950437,Christianity,mild,D cluster
+namibia,Africa,-0.0005664407810439293,-0.030916671832547767,Christianity,mild,C cluster
+niger,Africa,0.0033967067952403395,0.1989254997324628,Islam,mild,D cluster
+nigeria,Africa,0.13704343072834377,0.09552326523718963,Christianity,mild,B cluster
+rwanda,Africa,0.10214648909813842,-0.02147339643973144,Christianity,mild,B cluster
+senegal,Africa,0.007864263914003144,0.19249555523046907,Islam,mild,D cluster
+seychelles,Africa,0.18254717371673093,-0.06614411181220922,Christianity,no_war,B cluster
+sierra leone,Africa,0.16960380985600967,-0.040628126011362765,Islam,mild,B cluster
+somalia,Africa,-0.035995541540594284,-0.06844394085926533,Islam,mild,C cluster
+south africa,Africa,0.25405564465374475,-0.10538008382434953,Christianity,mild,B cluster
+south sudan,Africa,0.17624689682166247,-0.039143924781308355,Christianity,mild,B cluster
+sudan,Africa,-0.08576759336436669,-0.14148241243668974,Islam,mild,A cluster
+tanzania,Africa,0.34720488169700187,-0.08268536688488178,Christianity,mild,B cluster
+togo,Africa,0.018698635754537313,0.062021993290529924,Christianity,mild,C cluster
+tunisia,Africa,-0.17382956200439115,0.014469562870589371,Islam,mild,A cluster
+uganda,Africa,0.10183972388273284,-0.04541619837330404,Christianity,mild,B cluster
+zambia,Africa,0.17789751053078895,0.09660084783421458,Christianity,mild,B cluster
+zimbabwe,Africa,0.232551843205449,-0.16114902633580347,Christianity,mild,B cluster

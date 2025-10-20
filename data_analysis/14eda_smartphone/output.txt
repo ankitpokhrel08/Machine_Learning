@@ -1,0 +1,1139 @@
+price
+rating
+has_5g
+has_nfc
+has_ir_blaster
+num_cores
+processor_speed
+battery_capacity
+fast_charging_available
+fast_charging
+ram_capacity
+internal_memory
+screen_size
+refresh_rate
+num_rear_cameras
+num_front_cameras
+primary_camera_rear
+primary_camera_front
+extended_memory_available
+extended_upto
+total_cameras
+os_ios
+os_other
+brand_name_asus
+brand_name_blackview
+brand_name_blu
+brand_name_cat
+brand_name_cola
+brand_name_doogee
+brand_name_duoqin
+brand_name_gionee
+brand_name_google
+brand_name_honor
+brand_name_huawei
+brand_name_ikall
+brand_name_infinix
+brand_name_iqoo
+brand_name_itel
+brand_name_jio
+brand_name_lava
+brand_name_leeco
+brand_name_leitz
+brand_name_lenovo
+brand_name_letv
+brand_name_lg
+brand_name_lyf
+brand_name_micromax
+brand_name_motorola
+brand_name_nokia
+brand_name_nothing
+brand_name_nubia
+brand_name_oneplus
+brand_name_oppo
+brand_name_oukitel
+brand_name_poco
+brand_name_realme
+brand_name_redmi
+brand_name_royole
+brand_name_samsung
+brand_name_sharp
+brand_name_sony
+brand_name_tcl
+brand_name_tecno
+brand_name_tesla
+brand_name_vivo
+brand_name_xiaomi
+brand_name_zte
+model_Apple iPhone 11 (128GB)
+model_Apple iPhone 11 Pro Max
+model_Apple iPhone 12
+model_Apple iPhone 12 (128GB)
+model_Apple iPhone 12 (256GB)
+model_Apple iPhone 12 Mini
+model_Apple iPhone 12 Mini (128GB)
+model_Apple iPhone 12 Mini (256GB)
+model_Apple iPhone 12 Pro (256GB)
+model_Apple iPhone 12 Pro (512GB)
+model_Apple iPhone 13
+model_Apple iPhone 13 (256GB)
+model_Apple iPhone 13 (512GB)
+model_Apple iPhone 13 Mini
+model_Apple iPhone 13 Pro
+model_Apple iPhone 13 Pro (1TB)
+model_Apple iPhone 13 Pro (256GB)
+model_Apple iPhone 13 Pro Max
+model_Apple iPhone 13 Pro Max (1TB)
+model_Apple iPhone 13 Pro Max (256GB)
+model_Apple iPhone 14
+model_Apple iPhone 14 (256GB)
+model_Apple iPhone 14 (512GB)
+model_Apple iPhone 14 Mini
+model_Apple iPhone 14 Plus
+model_Apple iPhone 14 Plus (256GB)
+model_Apple iPhone 14 Plus (512GB)
+model_Apple iPhone 14 Pro
+model_Apple iPhone 14 Pro (1TB)
+model_Apple iPhone 14 Pro (256GB)
+model_Apple iPhone 14 Pro Max
+model_Apple iPhone 14 Pro Max (1TB)
+model_Apple iPhone 14 Pro Max (256GB)
+model_Apple iPhone 14 Pro Max (512GB)
+model_Apple iPhone 15
+model_Apple iPhone 15 Plus
+model_Apple iPhone 15 Pro
+model_Apple iPhone 15 Pro Max
+model_Apple iPhone 15 Ultra
+model_Apple iPhone 7s
+model_Apple iPhone 9
+model_Apple iPhone SE 2020
+model_Apple iPhone SE 3 2022
+model_Apple iPhone SE 4
+model_Apple iPhone XR2
+model_Asus ROG Phone 5s 5G
+model_Asus ROG Phone 6
+model_Asus ROG Phone 6 Batman Edition
+model_Asus ROG Phone 6 Pro 5G
+model_Asus ROG Phone 6D Ultimate
+model_Asus ROG Phone 7
+model_Asus ZenFone 9
+model_BLU F91 5G
+model_Blackview BV5200 Pro
+model_CAT S22 Flip
+model_Cola Phone
+model_Doogee S99
+model_Doogee V Max
+model_Duoqin F22 Pro
+model_Gionee G13 Pro
+model_Gionee K10
+model_Gionee M12 Pro
+model_Google Pixel 2 XL
+model_Google Pixel 3a XL
+model_Google Pixel 4
+model_Google Pixel 5
+model_Google Pixel 5A
+model_Google Pixel 6
+model_Google Pixel 6 Pro
+model_Google Pixel 6 Pro (12GB RAM + 256GB)
+model_Google Pixel 6A
+model_Google Pixel 7 5G
+model_Google Pixel 7 Pro 5G
+model_Google Pixel 7A
+model_Google Pixel 8
+model_Google Pixel 8 Pro
+model_Honor 50
+model_Honor 60 SE 5G
+model_Honor 70 5G
+model_Honor 70 5G (8GB RAM + 256GB)
+model_Honor 80 Pro Plus
+model_Honor Magic 4 Pro Plus 5G
+model_Honor Play 30
+model_Honor X6
+model_Honor X7a
+model_Honor X8
+model_Honor X8 5G
+model_Honor X9 5G
+model_Honor X9a
+model_Huawei Honor 9N
+model_Huawei Mate 30 RS Porsche Design
+model_Huawei Mate 40 Pro 4G
+model_Huawei Mate 50 Pro 5G
+model_Huawei Mate 50 RS Porsche Design
+model_Huawei Mate X
+model_Huawei Mate Xs 2
+model_Huawei Nova 10
+model_Huawei Nova 10 SE
+model_Huawei Nova 7i
+model_Huawei Nova 9
+model_Huawei Nova 9 SE
+model_Huawei Nova Y61
+model_Huawei Nova Y90
+model_Huawei P40 Pro
+model_Huawei P50 Pro 4G
+model_Infinix Hot 11S
+model_Infinix Hot 12
+model_Infinix Hot 12 Play
+model_Infinix Hot 12 Pro
+model_Infinix Hot 12 Pro (8GB RAM+ 128GB)
+model_Infinix Hot 20
+model_Infinix Hot 20 (6GB RAM+ 128GB)
+model_Infinix Hot 20 Play
+model_Infinix Hot 20S
+model_Infinix Hot 20i
+model_Infinix Note 11 (6GB RAM + 128GB)
+model_Infinix Note 11S (8GB RAM + 128GB)
+model_Infinix Note 12
+model_Infinix Note 12 (6GB RAM + 128GB)
+model_Infinix Note 12 (G96)
+model_Infinix Note 12 5G
+model_Infinix Note 12 Pro
+model_Infinix Note 12 Pro 5G
+model_Infinix Note 12 Turbo
+model_Infinix Note 12 VIP
+model_Infinix Note 12i (2022)
+model_Infinix Note 13 Pro
+model_Infinix Smart 6
+model_Infinix Smart 6 HD
+model_Infinix Smart 6 Plus
+model_Infinix Zero 20
+model_Infinix Zero 5G 2023
+model_Infinix Zero Ultra
+model_Infinix Zero X Pro
+model_Itel A23 Pro
+model_Itel A24 Pro
+model_Jio JioPhone 5G
+model_Jio JioPhone Next
+model_Jio JioPhone Next (3GB RAM + 32GB)
+model_Jio Phone 3
+model_LG V60 ThinQ
+model_LG Velvet 5G
+model_LG Wing 5G
+model_Lava Agni 5G
+model_Lava Blaze 5G
+model_Lava Blaze NXT
+model_Lava X3
+model_LeEco S1 Pro
+model_Leitz Phone 2
+model_Lenovo Legion Pro 2
+model_Lenovo Legion Y90
+model_Letv Y1 Pro
+model_Letv Y1 Pro Plus
+model_Letv Y2 Pro
+model_Lyf Earth 1
+model_Lyf Earth 2
+model_Micromax IN 2B
+model_Micromax IN 2B (6GB RAM + 64GB)
+model_Micromax IN 2C
+model_Motorola Edge 20 Fusion 5G
+model_Motorola Edge 30 5G
+model_Motorola Edge 30 5G (8GB RAM + 128GB)
+model_Motorola Edge 30 Fusion 5G
+model_Motorola Edge 30 Pro 5G
+model_Motorola Edge 30 Ultra
+model_Motorola Edge 30 Ultra (12GB RAM + 256GB)
+model_Motorola Edge 40 5G
+model_Motorola Edge 40 Fusion
+model_Motorola Edge 40 Pro 5G
+model_Motorola Edge Plus
+model_Motorola Edge S
+model_Motorola Moto E13
+model_Motorola Moto E22s
+model_Motorola Moto E32
+model_Motorola Moto E32s
+model_Motorola Moto E32s (4GB RAM + 64GB)
+model_Motorola Moto E40
+model_Motorola Moto Edge 30 Neo
+model_Motorola Moto Edge S30 5G
+model_Motorola Moto Edge S30 Pro
+model_Motorola Moto Edge X30 Pro
+model_Motorola Moto G 5G
+model_Motorola Moto G13
+model_Motorola Moto G22
+model_Motorola Moto G23
+model_Motorola Moto G31
+model_Motorola Moto G31 (6GB RAM+ 128GB)
+model_Motorola Moto G32
+model_Motorola Moto G40 Fusion
+model_Motorola Moto G42
+model_Motorola Moto G51 5G
+model_Motorola Moto G52
+model_Motorola Moto G52 (6GB RAM + 128GB)
+model_Motorola Moto G52 5G
+model_Motorola Moto G53
+model_Motorola Moto G60
+model_Motorola Moto G62 (8GB RAM + 128GB)
+model_Motorola Moto G62 5G
+model_Motorola Moto G71 5G
+model_Motorola Moto G72
+model_Motorola Moto G72 4G
+model_Motorola Moto G73
+model_Motorola Moto G82 (8GB RAM + 128GB)
+model_Motorola Moto G82 5G
+model_Motorola Moto G91 5G
+model_Motorola Moto S30 Pro
+model_Motorola Moto X30 Pro
+model_Motorola Moto X40
+model_Motorola One Fusion Plus
+model_Motorola One Macro
+model_Motorola ThinkPhone
+model_Nokia C01 Plus
+model_Nokia C21 Plus (4GB RAM + 64GB)
+model_Nokia C31
+model_Nokia G11 Plus
+model_Nokia G21
+model_Nokia G21 (6GB RAM + 128GB)
+model_Nokia G60
+model_Nokia N73 5G
+model_Nokia X100 5G
+model_Nokia X30
+model_Nokia X50 5G
+model_Nokia X60 5G
+model_Nokia X60 Pro 5G
+model_Nothing Phone 1
+model_Nothing Phone 1 (12GB RAM + 256GB)
+model_Nothing Phone 1 (8GB RAM + 256GB)
+model_Nothing Phone 1 Lite
+model_Nothing Phone 2
+model_Nubia Red Magic 6S 5G
+model_Nubia Red Magic 7S Pro
+model_Nubia Red Magic 8 Pro 5G
+model_Nubia Red Magic 8 Pro Plus
+model_Nubia Z40 Pro 5G
+model_Nubia Z50
+model_OPPO A1 Pro
+model_OPPO A15
+model_OPPO A16
+model_OPPO A16K (4GB RAM + 64GB)
+model_OPPO A16e
+model_OPPO A16e (4GB RAM + 64GB)
+model_OPPO A17
+model_OPPO A17K
+model_OPPO A53 2020 (6GB RAM + 128GB)
+model_OPPO A54
+model_OPPO A54 (4GB RAM + 128GB)
+model_OPPO A54 (6GB RAM + 128GB)
+model_OPPO A55 4G
+model_OPPO A55 4G (6GB RAM + 128GB)
+model_OPPO A55 5G
+model_OPPO A57 4G
+model_OPPO A57 4G (4GB RAM + 64 GB)
+model_OPPO A58
+model_OPPO A58x
+model_OPPO A73
+model_OPPO A74 5G
+model_OPPO A76
+model_OPPO A77
+model_OPPO A77 (4GB RAM + 128 GB)
+model_OPPO A77s
+model_OPPO A96 4G
+model_OPPO A97 5G
+model_OPPO F17 Pro
+model_OPPO F19
+model_OPPO F19 Pro
+model_OPPO F19 Pro Plus 5G
+model_OPPO F19s
+model_OPPO F21 Pro 4G
+model_OPPO F21 Pro 5G
+model_OPPO F21s Pro
+model_OPPO F21s Pro 4G
+model_OPPO F22 Pro
+model_OPPO F23 Pro
+model_OPPO F23 Pro Plus 5G
+model_OPPO Find N Flip
+model_OPPO Find N2 Flip
+model_OPPO K10
+model_OPPO K10 (8GB RAM + 128GB)
+model_OPPO K10 5G
+model_OPPO Reno 10
+model_OPPO Reno 10 Pro
+model_OPPO Reno 6
+model_OPPO Reno 6 Pro 5G
+model_OPPO Reno 6 Pro Plus 5G
+model_OPPO Reno 8 House of Dragon Edition
+model_OPPO Reno 8 Pro 5G
+model_OPPO Reno 8 Pro House of Dragon Edition
+model_OPPO Reno 8 Z
+model_OPPO Reno 9 5G
+model_OPPO Reno 9 Pro 5G
+model_OPPO Reno 9 Pro Plus
+model_OPPO Reno 9 Z
+model_OPPO Reno7 5G
+model_OPPO Reno7 Pro 5G
+model_OPPO Reno7 Z 5G
+model_OPPO Reno8 5G
+model_OPPO X 2021
+model_OnePlus 10 Pro 5G
+model_OnePlus 10 Pro 5G (12GB RAM + 256GB)
+model_OnePlus 10 Pro 5G (12GB RAM + 512GB)
+model_OnePlus 10R 5G
+model_OnePlus 10R 5G (12GB RAM + 256GB)
+model_OnePlus 10R Prime Edition
+model_OnePlus 10T
+model_OnePlus 10T (12GB RAM + 256GB)
+model_OnePlus 10T (16GB RAM + 256GB)
+model_OnePlus 11 5G
+model_OnePlus 11 Pro
+model_OnePlus 11R
+model_OnePlus 12 Pro
+model_OnePlus 6 (8GB RAM + 128GB)
+model_OnePlus 9 Pro
+model_OnePlus 9RT 5G
+model_OnePlus 9T
+model_OnePlus Ace 2
+model_OnePlus Ace 5G
+model_OnePlus Ace Pro
+model_OnePlus Ace Racing Edition 5G
+model_OnePlus Clover
+model_OnePlus Nord 2 Lite 5G
+model_OnePlus Nord 2T (12GB RAM + 256GB)
+model_OnePlus Nord 2T 5G
+model_OnePlus Nord 3 5G
+model_OnePlus Nord 3T 5G
+model_OnePlus Nord 4 5G
+model_OnePlus Nord 5
+model_OnePlus Nord CE 2 Lite 5G
+model_OnePlus Nord CE 2 Lite 5G (8GB RAM + 128GB)
+model_OnePlus Nord CE 2 Lite 5G (8GB RAM + 256GB)
+model_OnePlus Nord CE 3 5G
+model_OnePlus Nord CE 3 Lite 5G
+model_OnePlus Nord Lite
+model_OnePlus Nord N10
+model_OnePlus Nord N100
+model_OnePlus Nord N20 5G
+model_OnePlus Nord N200
+model_OnePlus Nord N300
+model_OnePlus Nord SE
+model_OnePlus Z
+model_Oppo A12
+model_Oppo A15s (4GB RAM + 128GB)
+model_Oppo A31 2020 (6GB RAM + 128GB)
+model_Oppo A56 5G
+model_Oppo A56s
+model_Oppo A77 5G
+model_Oppo A78
+model_Oppo A96 5G
+model_Oppo A98
+model_Oppo Find N 5G
+model_Oppo Find N Fold
+model_Oppo Find N2 5G
+model_Oppo Find X3 Pro
+model_Oppo Find X5 Pro 5G
+model_Oppo Find X6
+model_Oppo Find X6 Pro
+model_Oppo K10 Pro 5G
+model_Oppo K10x 5G
+model_Oppo K5 (8GB RAM + 128GB)
+model_Oppo Reno 10 Pro Plus
+model_Oppo Reno 5
+model_Oppo Reno 5 Pro 5G
+model_Oppo Reno 5A
+model_Oppo Reno 8 Pro (8GB RAM + 256GB)
+model_Oppo Reno 8T
+model_Oppo Reno 8T 4G
+model_Oukitel WP19
+model_Oukitel WP21
+model_Oukitel WP9
+model_POCO C31
+model_POCO C31 (4GB RAM + 64GB)
+model_POCO F4 GT 5G
+model_POCO F5 GT 5G
+model_POCO M2 Pro
+model_POCO M3 Pro 5G
+model_POCO M3 Pro 5G (6GB RAM + 128GB)
+model_POCO M4 Pro 4G
+model_POCO M4 Pro 4G (6GB RAM + 128GB)
+model_POCO M4 Pro 4G (8GB RAM + 128GB)
+model_POCO X4 GT 5G
+model_POCO X4 GT 5G (8GB RAM + 256GB)
+model_POCO X5 GT
+model_Poco C50
+model_Poco C50 (3GB RAM + 32GB)
+model_Poco C55
+model_Poco F3 GT
+model_Poco F4 (12GB RAM + 256GB)
+model_Poco F4 5G
+model_Poco F4 5G (8GB RAM + 128GB)
+model_Poco F5
+model_Poco F5 Pro
+model_Poco M2
+model_Poco M3
+model_Poco M4 5G
+model_Poco M4 5G (6GB RAM + 128GB)
+model_Poco M4 Pro 5G
+model_Poco M4 Pro 5G (6GB RAM + 128GB)
+model_Poco M4 Pro 5G (8GB RAM + 128GB)
+model_Poco M5
+model_Poco M5 (6GB RAM + 128GB)
+model_Poco M6 Pro
+model_Poco X3
+model_Poco X3 Pro
+model_Poco X4
+model_Poco X4 Pro 5G
+model_Poco X4 Pro 5G (6GB RAM + 128GB)
+model_Poco X4 Pro 5G (8GB RAM + 128GB)
+model_Poco X5
+model_Poco X5 Pro
+model_Poco X6 Pro 5G
+model_Realme 10
+model_Realme 10 (8GB RAM + 128GB)
+model_Realme 10 5G
+model_Realme 10 Pro
+model_Realme 10 Pro (8GB RAM + 128GB)
+model_Realme 10 Pro Plus
+model_Realme 10 Pro Plus (8GB RAM + 256GB)
+model_Realme 10s
+model_Realme 11 Pro
+model_Realme 11 Pro Plus
+model_Realme 6 (6GB RAM + 64GB)
+model_Realme 6 Pro
+model_Realme 7 Pro (8GB RAM + 128GB)
+model_Realme 8
+model_Realme 8 (8GB RAM + 128GB)
+model_Realme 8 5G
+model_Realme 8 5G (8GB RAM + 128GB)
+model_Realme 8i
+model_Realme 8i (6GB RAM + 128GB)
+model_Realme 8s 5G
+model_Realme 8s 5G (8GB RAM + 128GB)
+model_Realme 9 4G
+model_Realme 9 4G (8GB RAM + 128GB)
+model_Realme 9 5G
+model_Realme 9 5G (6GB RAM + 128GB)
+model_Realme 9 5G SE
+model_Realme 9 5G SE (8GB RAM + 128GB)
+model_Realme 9 Pro 5G
+model_Realme 9 Pro 5G (8GB RAM + 128GB)
+model_Realme 9 Pro Plus 5G
+model_Realme 9 Pro Plus 5G (8GB RAM + 128GB)
+model_Realme 9 Pro Plus 5G (8GB RAM + 256GB)
+model_Realme 9i
+model_Realme 9i (4GB RAM + 128GB)
+model_Realme 9i (6GB RAM + 128GB)
+model_Realme 9i 5G
+model_Realme 9i 5G (6GB RAM + 128GB)
+model_Realme A1
+model_Realme C11
+model_Realme C11 2021
+model_Realme C11 2021 (4GB RAM + 64GB)
+model_Realme C2
+model_Realme C21Y
+model_Realme C25Y (4GB RAM + 64GB)
+model_Realme C2s
+model_Realme C30
+model_Realme C30 (3GB RAM + 32GB)
+model_Realme C30s
+model_Realme C30s (4GB RAM + 64GB)
+model_Realme C31
+model_Realme C31 (4GB RAM + 64GB)
+model_Realme C32
+model_Realme C33
+model_Realme C33 (4GB RAM + 64GB)
+model_Realme C35
+model_Realme C35 (4GB RAM + 128GB)
+model_Realme C35 (6GB RAM + 128GB)
+model_Realme G1
+model_Realme GT 2 5G
+model_Realme GT 2 Explorer Master Edition
+model_Realme GT 2 Pro 5G
+model_Realme GT 2 Pro 5G (12GB RAM + 256GB)
+model_Realme GT 5G
+model_Realme GT Explorer Master Edition
+model_Realme GT Master Edition 5G
+model_Realme GT Neo 3 5G
+model_Realme GT Neo 3T
+model_Realme GT Neo 3T (8GB RAM + 128GB)
+model_Realme GT Neo 3T (8GB RAM + 256GB)
+model_Realme GT Neo 4T
+model_Realme GT Neo 5
+model_Realme GT Neo2 5G
+model_Realme Narzo 20
+model_Realme Narzo 30 5G
+model_Realme Narzo 30 Pro 5G (8GB RAM +128GB)
+model_Realme Narzo 50
+model_Realme Narzo 50 (6GB RAM + 128GB)
+model_Realme Narzo 50 5G
+model_Realme Narzo 50 5G (4GB RAM + 128GB)
+model_Realme Narzo 50 5G (4GB RAM + 64GB)
+model_Realme Narzo 50 Pro 5G
+model_Realme Narzo 50 Pro 5G (8GB RAM + 128GB)
+model_Realme Narzo 50A
+model_Realme Narzo 50A Prime
+model_Realme Narzo 50A Prime (4GB RAM + 128GB)
+model_Realme Narzo 50i
+model_Realme Narzo 50i (4GB RAM + 64GB)
+model_Realme Narzo 50i Prime
+model_Realme Narzo 50i Prime (4GB RAM + 64GB)
+model_Realme Q2i
+model_Realme Q3
+model_Realme Q3i 5G
+model_Realme Q5 5G
+model_Realme X50 Pro 5G (12GB RAM + 256GB)
+model_Realme X50 Pro 5G (8GB RAM + 128GB)
+model_Realme X7 Max
+model_Realme XT
+model_Redmi 12C
+model_Redmi Note 11 Pro 2023
+model_Redmi Note 12 Pro Speed Edition
+model_Royole FlexPai 2
+model_Royole FlexPai 3 5G
+model_Samsung Galaxy A01 Core
+model_Samsung Galaxy A03
+model_Samsung Galaxy A03 (4GB RAM + 64GB)
+model_Samsung Galaxy A03 Core
+model_Samsung Galaxy A03s
+model_Samsung Galaxy A04
+model_Samsung Galaxy A04 (4GB RAM + 128GB)
+model_Samsung Galaxy A04e
+model_Samsung Galaxy A04e (3GB RAM + 64GB)
+model_Samsung Galaxy A04e (4GB RAM + 128GB)
+model_Samsung Galaxy A04s
+model_Samsung Galaxy A04s (4GB RAM + 128GB)
+model_Samsung Galaxy A05
+model_Samsung Galaxy A11
+model_Samsung Galaxy A12
+model_Samsung Galaxy A12 (6GB RAM + 128GB)
+model_Samsung Galaxy A13
+model_Samsung Galaxy A13 (4GB RAM + 128GB)
+model_Samsung Galaxy A13 (6GB RAM + 128GB)
+model_Samsung Galaxy A13 5G
+model_Samsung Galaxy A14 5G
+model_Samsung Galaxy A14 5G (6GB RAM + 128GB)
+model_Samsung Galaxy A14 5G (8GB RAM + 128GB)
+model_Samsung Galaxy A15
+model_Samsung Galaxy A21s (6GB RAM + 128GB)
+model_Samsung Galaxy A22
+model_Samsung Galaxy A22 5G
+model_Samsung Galaxy A23
+model_Samsung Galaxy A23 (8GB RAM + 128GB)
+model_Samsung Galaxy A23 5G
+model_Samsung Galaxy A23 5G (8GB RAM + 128GB)
+model_Samsung Galaxy A24
+model_Samsung Galaxy A32
+model_Samsung Galaxy A32 (8GB RAM + 128GB)
+model_Samsung Galaxy A32 5G
+model_Samsung Galaxy A33 5G
+model_Samsung Galaxy A33 5G (8GB RAM + 128GB)
+model_Samsung Galaxy A34 5G
+model_Samsung Galaxy A40
+model_Samsung Galaxy A50s
+model_Samsung Galaxy A52
+model_Samsung Galaxy A52 (8GB RAM + 128GB)
+model_Samsung Galaxy A53 (8GB RAM + 256GB)
+model_Samsung Galaxy A53 5G
+model_Samsung Galaxy A53 5G (8GB RAM + 128GB)
+model_Samsung Galaxy A54 5G
+model_Samsung Galaxy A7 (2018)
+model_Samsung Galaxy A71
+model_Samsung Galaxy A73 5G
+model_Samsung Galaxy A73 5G (8GB RAM + 256GB)
+model_Samsung Galaxy A74 5G
+model_Samsung Galaxy A75 5G
+model_Samsung Galaxy A82 5G
+model_Samsung Galaxy A83 5G
+model_Samsung Galaxy A9 Pro (2019)
+model_Samsung Galaxy A92 5G
+model_Samsung Galaxy F04
+model_Samsung Galaxy F12
+model_Samsung Galaxy F13
+model_Samsung Galaxy F13 (4GB RAM + 128GB)
+model_Samsung Galaxy F14
+model_Samsung Galaxy F22
+model_Samsung Galaxy F22 (6GB RAM + 128GB)
+model_Samsung Galaxy F23 5G
+model_Samsung Galaxy F23 5G (6GB RAM + 128GB)
+model_Samsung Galaxy F24 5G
+model_Samsung Galaxy F41 (6GB RAM + 128GB)
+model_Samsung Galaxy F42 5G
+model_Samsung Galaxy F42 5G (8GB RAM + 128GB)
+model_Samsung Galaxy F63
+model_Samsung Galaxy M04
+model_Samsung Galaxy M04 (4GB RAM + 128GB)
+model_Samsung Galaxy M12
+model_Samsung Galaxy M13
+model_Samsung Galaxy M13 (4GB RAM + 64GB)
+model_Samsung Galaxy M13 5G
+model_Samsung Galaxy M13 5G (4GB RAM + 64GB)
+model_Samsung Galaxy M14
+model_Samsung Galaxy M21 2021
+model_Samsung Galaxy M32
+model_Samsung Galaxy M32 (6GB RAM + 128GB)
+model_Samsung Galaxy M32 Prime Edition
+model_Samsung Galaxy M32 Prime Edition (6GB RAM + 128GB)
+model_Samsung Galaxy M33 5G
+model_Samsung Galaxy M33 5G (8GB RAM + 128GB)
+model_Samsung Galaxy M34 5G
+model_Samsung Galaxy M35
+model_Samsung Galaxy M51s 5G
+model_Samsung Galaxy M52s 5G
+model_Samsung Galaxy M53 5G
+model_Samsung Galaxy M53 5G (8GB RAM + 128GB)
+model_Samsung Galaxy M54 5G
+model_Samsung Galaxy M62
+model_Samsung Galaxy Note 10 Lite
+model_Samsung Galaxy Note 10 Plus
+model_Samsung Galaxy Note 10 Plus 5G
+model_Samsung Galaxy Note 20
+model_Samsung Galaxy Note 30 Ultra 5G
+model_Samsung Galaxy S10 5G
+model_Samsung Galaxy S10 Plus
+model_Samsung Galaxy S20
+model_Samsung Galaxy S20 5G
+model_Samsung Galaxy S20 FE
+model_Samsung Galaxy S20 FE 5G
+model_Samsung Galaxy S20 Plus
+model_Samsung Galaxy S20 Plus 5G
+model_Samsung Galaxy S20 Ultra 5G
+model_Samsung Galaxy S21
+model_Samsung Galaxy S21 FE 5G
+model_Samsung Galaxy S21 FE 5G (8GB RAM + 256GB)
+model_Samsung Galaxy S21 Plus
+model_Samsung Galaxy S21 Ultra
+model_Samsung Galaxy S21 Ultra 5G (12GB RAM + 128GB)
+model_Samsung Galaxy S22 5G
+model_Samsung Galaxy S22 5G (8GB RAM + 256GB)
+model_Samsung Galaxy S22 FE 5G
+model_Samsung Galaxy S22 Plus 5G
+model_Samsung Galaxy S22 Plus 5G (8GB RAM + 256GB)
+model_Samsung Galaxy S22 Ultra 5G
+model_Samsung Galaxy S22 Ultra 5G (12GB RAM + 512GB)
+model_Samsung Galaxy S22 Ultra 5G (8GB RAM + 128GB)
+model_Samsung Galaxy S23
+model_Samsung Galaxy S23 FE 5G
+model_Samsung Galaxy S23 Plus
+model_Samsung Galaxy S23 Ultra 5G
+model_Samsung Galaxy S24 Ultra
+model_Samsung Galaxy S9 Plus (128GB)
+model_Samsung Galaxy Z Flip 3
+model_Samsung Galaxy Z Flip 4 5G
+model_Samsung Galaxy Z Fold 3
+model_Samsung Galaxy Z Fold 4
+model_Samsung Galaxy Z Fold 4 (12GB RAM + 1TB)
+model_Sharp Aquos R5G
+model_Sony Xperia 1 II
+model_Sony Xperia 1 IV (12GB RAM + 512GB)
+model_Sony Xperia 10 II
+model_Sony Xperia 10 III Lite 5G
+model_Sony Xperia 5 II
+model_Sony Xperia 5 IV 5G
+model_Sony Xperia Ace IV
+model_Sony Xperia L5 5G
+model_Sony Xperia Pro-I
+model_TCL Ion X
+model_Tecno Camon 18
+model_Tecno Camon 19
+model_Tecno Camon 19 Neo
+model_Tecno Camon 19 Pro
+model_Tecno Camon 19 Pro 5G
+model_Tecno Camon 19 Pro Mondrian Edition
+model_Tecno Camon 20 Premier
+model_Tecno Phantom X
+model_Tecno Phantom X Pro
+model_Tecno Phantom X2
+model_Tecno Phantom X2 Pro
+model_Tecno Pop 5 Go
+model_Tecno Pop 6 Pro
+model_Tecno Pova 2
+model_Tecno Pova 3
+model_Tecno Pova 3 (6GB RAM + 128GB)
+model_Tecno Pova 4
+model_Tecno Pova 4 Pro
+model_Tecno Pova 5G
+model_Tecno Pova Neo 2
+model_Tecno Pova Neo 5G
+model_Tecno Spark 8 (4GB RAM + 64GB)
+model_Tecno Spark 8 Pro
+model_Tecno Spark 8C
+model_Tecno Spark 8C (4GB RAM + 64GB)
+model_Tecno Spark 8T
+model_Tecno Spark 9
+model_Tecno Spark 9 (3GB RAM + 64GB)
+model_Tecno Spark 9 (4GB RAM + 64GB)
+model_Tecno Spark 9 Pro
+model_Tecno Spark 9T
+model_Tecno Spark Go 2022
+model_Tecno Spark Go 2023
+model_Tesla Pi Phone
+model_Vivo S1 Pro
+model_Vivo S16
+model_Vivo S16 Pro
+model_Vivo S17 Pro
+model_Vivo T1 44W
+model_Vivo T1 44W (6GB RAM + 128GB)
+model_Vivo T1 44W (8GB RAM + 128GB)
+model_Vivo T1 5G
+model_Vivo T1 5G (6GB RAM + 128GB)
+model_Vivo T1 5G (8GB RAM + 128GB)
+model_Vivo T1 Pro
+model_Vivo T1 Pro 5G (8GB RAM + 128GB)
+model_Vivo T1x (4GB RAM + 128GB)
+model_Vivo T1x (6GB RAM + 128GB)
+model_Vivo T1x 4G
+model_Vivo T2 5G
+model_Vivo T2 Pro 5G
+model_Vivo T2x 5G
+model_Vivo T3 Pro
+model_Vivo U3
+model_Vivo U3 (6GB RAM + 64GB)
+model_Vivo U3x
+model_Vivo V11i
+model_Vivo V15 Pro (8GB RAM +128GB)
+model_Vivo V19 (8GB RAM + 256GB)
+model_Vivo V20
+model_Vivo V20 Pro
+model_Vivo V20 SE
+model_Vivo V21
+model_Vivo V21 5G
+model_Vivo V21 Pro
+model_Vivo V21s
+model_Vivo V23 5G
+model_Vivo V23 5G (12GB RAM + 256GB)
+model_Vivo V23 Pro 5G
+model_Vivo V23 Pro 5G (12GB RAM + 256GB)
+model_Vivo V23e
+model_Vivo V23e 5G
+model_Vivo V25 (12GB RAM + 256GB)
+model_Vivo V25 5G
+model_Vivo V25 Pro (12GB RAM + 256GB)
+model_Vivo V25 Pro 5G
+model_Vivo V25e
+model_Vivo V26 Pro
+model_Vivo V27
+model_Vivo V27 Pro
+model_Vivo V28
+model_Vivo V29
+model_Vivo X Fold 2
+model_Vivo X Fold 5G
+model_Vivo X Fold 5G (12GB RAM + 512GB)
+model_Vivo X Fold Plus
+model_Vivo X Note 5G (12GB RAM + 512GB)
+model_Vivo X80 5G
+model_Vivo X80 5G (12GB RAM + 256GB)
+model_Vivo X80 Pro 5G
+model_Vivo X80 Pro Plus 5G
+model_Vivo X90 5G
+model_Vivo X90 Pro 5G
+model_Vivo X90 Pro Plus 5G
+model_Vivo Y01
+model_Vivo Y01A
+model_Vivo Y02
+model_Vivo Y02 (2GB RAM + 32GB)
+model_Vivo Y02s
+model_Vivo Y10
+model_Vivo Y100
+model_Vivo Y11 (2019)
+model_Vivo Y12 (3GB RAM + 64GB)
+model_Vivo Y12G (3GB RAM + 64GB)
+model_Vivo Y12a
+model_Vivo Y15
+model_Vivo Y15C
+model_Vivo Y15C (3GB RAM + 64GB)
+model_Vivo Y15s
+model_Vivo Y16
+model_Vivo Y16 (3GB RAM + 64GB)
+model_Vivo Y16 (4GB RAM + 64GB)
+model_Vivo Y19
+model_Vivo Y20G
+model_Vivo Y21 (2020)
+model_Vivo Y21 2021
+model_Vivo Y21T
+model_Vivo Y21e
+model_Vivo Y21s
+model_Vivo Y22
+model_Vivo Y22 (6GB RAM + 128GB)
+model_Vivo Y22s
+model_Vivo Y25
+model_Vivo Y3 (4GB RAM + 128GB)
+model_Vivo Y33T
+model_Vivo Y33s
+model_Vivo Y35
+model_Vivo Y35 5G
+model_Vivo Y53s
+model_Vivo Y53t
+model_Vivo Y55 4G
+model_Vivo Y55 5G
+model_Vivo Y55S
+model_Vivo Y55s 2023
+model_Vivo Y55s 5G
+model_Vivo Y71
+model_Vivo Y73 2021
+model_Vivo Y73T
+model_Vivo Y75 4G
+model_Vivo Y75 5G
+model_Vivo Y77 5G
+model_Vivo Y78 5G
+model_Vivo Y91c
+model_Vivo Y93
+model_Vivo Y95
+model_Xiaomi 11T Pro 5G (12GB RAM + 256GB)
+model_Xiaomi 11i 5G (8GB RAM + 128GB)
+model_Xiaomi 11i HyperCharge 5G
+model_Xiaomi 11i HyperCharge 5G (8GB RAM + 128GB)
+model_Xiaomi 12 Lite 5G
+model_Xiaomi 12 Pro 5G
+model_Xiaomi 12 Pro 5G (12GB RAM + 256GB)
+model_Xiaomi 12 Ultra 5G
+model_Xiaomi 12S Ultra
+model_Xiaomi 12T
+model_Xiaomi 12T Pro 5G
+model_Xiaomi 13 5G
+model_Xiaomi 13 Pro 5G
+model_Xiaomi 13 Ultra 5G
+model_Xiaomi 14
+model_Xiaomi Civi 2
+model_Xiaomi Civi 3
+model_Xiaomi Mi 10 5G (8GB RAM + 256GB)
+model_Xiaomi Mi 10T 5G
+model_Xiaomi Mi 10T Pro 5G
+model_Xiaomi Mi 11 Lite (8GB RAM + 128GB)
+model_Xiaomi Mi 11 Lite NE 5G
+model_Xiaomi Mi 11 Lite NE 5G (8GB RAM + 128GB)
+model_Xiaomi Mi 11T Pro 5G
+model_Xiaomi Mi 11X
+model_Xiaomi Mi 11X 5G (8GB RAM + 128GB)
+model_Xiaomi Mi 11X Pro
+model_Xiaomi Mi 11i 5G
+model_Xiaomi Mi 12 5G
+model_Xiaomi Mi Mix Alpha
+model_Xiaomi Mi Mix Fold
+model_Xiaomi Mix Fold 2 5G
+model_Xiaomi Poco F1
+model_Xiaomi Poco F1 (6GB RAM + 128GB)
+model_Xiaomi Redmi 10
+model_Xiaomi Redmi 10 (6GB RAM + 128GB)
+model_Xiaomi Redmi 10 Power
+model_Xiaomi Redmi 10 Prime
+model_Xiaomi Redmi 10 Prime (6GB RAM + 128GB)
+model_Xiaomi Redmi 10 Prime Plus 5G
+model_Xiaomi Redmi 10A
+model_Xiaomi Redmi 10A (4GB RAM + 64GB)
+model_Xiaomi Redmi 10A (6GB RAM + 128GB)
+model_Xiaomi Redmi 10A Sport
+model_Xiaomi Redmi 10C
+model_Xiaomi Redmi 10C (4GB RAM + 128GB)
+model_Xiaomi Redmi 11 Prime
+model_Xiaomi Redmi 11 Prime (6GB RAM + 128GB)
+model_Xiaomi Redmi 11 Prime 5G
+model_Xiaomi Redmi 11 Prime 5G (6GB RAM + 128GB)
+model_Xiaomi Redmi 13 Prime 5G
+model_Xiaomi Redmi 20X
+model_Xiaomi Redmi 8 (4GB RAM + 64GB)
+model_Xiaomi Redmi 9
+model_Xiaomi Redmi 9 Activ
+model_Xiaomi Redmi 9 Activ (6GB RAM + 128GB)
+model_Xiaomi Redmi 9 Power
+model_Xiaomi Redmi 9A
+model_Xiaomi Redmi 9A (6GB RAM + 128GB)
+model_Xiaomi Redmi 9A Sport
+model_Xiaomi Redmi 9i (4GB RAM + 128GB)
+model_Xiaomi Redmi 9i Sport
+model_Xiaomi Redmi A1
+model_Xiaomi Redmi A1 Plus
+model_Xiaomi Redmi A1 Plus (3GB RAM + 32GB)
+model_Xiaomi Redmi K20 Pro Signature Edition
+model_Xiaomi Redmi K50 5G
+model_Xiaomi Redmi K50 Ultra 5G
+model_Xiaomi Redmi K50i (8GB RAM + 256GB)
+model_Xiaomi Redmi K50i 5G
+model_Xiaomi Redmi K60
+model_Xiaomi Redmi K60 Gaming Edition
+model_Xiaomi Redmi K60 Pro
+model_Xiaomi Redmi K60E
+model_Xiaomi Redmi K60i
+model_Xiaomi Redmi Note 10
+model_Xiaomi Redmi Note 10 (6GB RAM + 128GB)
+model_Xiaomi Redmi Note 10 5G
+model_Xiaomi Redmi Note 10 Lite
+model_Xiaomi Redmi Note 10 Lite (4GB RAM + 128GB)
+model_Xiaomi Redmi Note 10 Lite (6GB RAM + 128GB)
+model_Xiaomi Redmi Note 10 Pro (6GB RAM + 128GB)
+model_Xiaomi Redmi Note 10 Pro 5G
+model_Xiaomi Redmi Note 10 Pro Max
+model_Xiaomi Redmi Note 10 Pro Max (6GB RAM + 128GB)
+model_Xiaomi Redmi Note 10S
+model_Xiaomi Redmi Note 10S (6GB RAM + 128GB)
+model_Xiaomi Redmi Note 10S (8GB RAM + 128GB)
+model_Xiaomi Redmi Note 10T 5G
+model_Xiaomi Redmi Note 10T 5G (6GB RAM +128GB)
+model_Xiaomi Redmi Note 11
+model_Xiaomi Redmi Note 11 (6GB RAM + 128GB)
+model_Xiaomi Redmi Note 11 (6GB RAM + 64GB)
+model_Xiaomi Redmi Note 11 5G
+model_Xiaomi Redmi Note 11 Pro 4G
+model_Xiaomi Redmi Note 11 Pro 5G
+model_Xiaomi Redmi Note 11 Pro Max 5G
+model_Xiaomi Redmi Note 11 Pro Plus 5G
+model_Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 128GB)
+model_Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 256GB)
+model_Xiaomi Redmi Note 11E 5G
+model_Xiaomi Redmi Note 11R
+model_Xiaomi Redmi Note 11S
+model_Xiaomi Redmi Note 11S (6GB RAM + 128GB)
+model_Xiaomi Redmi Note 11S (8GB RAM + 128GB)
+model_Xiaomi Redmi Note 11SE
+model_Xiaomi Redmi Note 11T 5G
+model_Xiaomi Redmi Note 11T 5G (6GB RAM + 128GB)
+model_Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB)
+model_Xiaomi Redmi Note 11T Pro 5G
+model_Xiaomi Redmi Note 12
+model_Xiaomi Redmi Note 12 (6GB RAM + 128GB)
+model_Xiaomi Redmi Note 12 4G
+model_Xiaomi Redmi Note 12 Discovery Edition
+model_Xiaomi Redmi Note 12 Explorer
+model_Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB)
+model_Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB)
+model_Xiaomi Redmi Note 12 Pro 4G
+model_Xiaomi Redmi Note 12 Pro 5G
+model_Xiaomi Redmi Note 12 Pro Max 5G
+model_Xiaomi Redmi Note 12 Pro Plus
+model_Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB)
+model_Xiaomi Redmi Note 12 Pro Plus (6GB RAM + 128GB)
+model_Xiaomi Redmi Note 12 Turbo
+model_Xiaomi Redmi Note 12T 5G
+model_Xiaomi Redmi Note 13 Pro 5G
+model_Xiaomi Redmi Note 13 Pro Max 5G
+model_Xiaomi Redmi Note 4
+model_Xiaomi Redmi Note 8 2021
+model_Xiaomi Redmi Note 8 Pro
+model_Xiaomi Redmi Note 9
+model_Xiaomi Redmi Note 9 Pro
+model_Xiaomi Redmi Note 9 Pro (4GB RAM + 128GB)
+model_Xiaomi Redmi Note 9 Pro Max
+model_ZTE Axon 30S
+model_ZTE Axon 40 Ultra 5G
+model_iKall Z18
+model_iKall Z19
+model_iKall Z19 Pro
+model_iQOO 11 (16GB RAM + 256GB)
+model_iQOO 11 5G
+model_iQOO 11 Pro 5G
+model_iQOO 7
+model_iQOO 7 (12GB RAM + 256GB)
+model_iQOO 7 Legend
+model_iQOO 9 5G
+model_iQOO 9 5G (12GB RAM + 256GB)
+model_iQOO 9 Pro 5G
+model_iQOO 9 SE 5G
+model_iQOO 9 SE 5G (12GB RAM + 256GB)
+model_iQOO 9T 5G
+model_iQOO Neo 6 5G
+model_iQOO Neo 6 5G (12GB RAM + 256GB)
+model_iQOO Neo 6 SE 5G
+model_iQOO Neo 7 5G
+model_iQOO Neo 7 Racing Edition
+model_iQOO Neo 7 SE 5G
+model_iQOO Z6 4G
+model_iQOO Z6 4G (6GB RAM + 128GB)
+model_iQOO Z6 5G
+model_iQOO Z6 5G (6GB RAM + 128GB)
+model_iQOO Z6 5G (8GB RAM + 128GB)
+model_iQOO Z6 Lite (6GB RAM + 128GB)
+model_iQOO Z6 Lite 5G
+model_iQOO Z6 Pro 5G
+model_iQOO Z6 Pro 5G (12GB RAM + 256GB)
+model_iQOO Z6 Pro 5G (8GB RAM + 128GB)
+model_iQOO Z7 5G
+model_iQOO Z7 Pro 5G
+model_iQOO Z8 5G
+model_iQOO Z9
+model_itel A23s
+model_itel A56
+model_itel P36
+model_itel S16
+model_itel S16 Pro
+model_itel Vision 1 (3GB RAM + 32GB)
+model_itel Vision 3
+model_itel Vision 3 (2GB RAM + 32GB)
+processor_brand_dimensity
+processor_brand_exynos
+processor_brand_fusion
+processor_brand_google
+processor_brand_helio
+processor_brand_kirin
+processor_brand_mediatek
+processor_brand_sc9863a
+processor_brand_snapdragon
+processor_brand_spreadtrum
+processor_brand_tiger
+processor_brand_unisoc
+resolution_1080 x 2160 
+resolution_1080 x 2246 
+resolution_1080 x 2280 
+resolution_1080 x 2316 
+resolution_1080 x 2340 
+resolution_1080 x 2376 
+resolution_1080 x 2388 
+resolution_1080 x 2400 
+resolution_1080 x 2404 
+resolution_1080 x 2408 
+resolution_1080 x 2412 
+resolution_1080 x 2448 
+resolution_1080 x 2460 
+resolution_1080 x 2480 
+resolution_1080 x 2520 
+resolution_1080 x 2640 
+resolution_1116 x 2480 
+resolution_1170 x 2532 
+resolution_1176 x 2400 
+resolution_1179 x 2556 
+resolution_1200 x 2400 
+resolution_1200 x 2640 
+resolution_1200 x 2652 
+resolution_1200 x 2860 
+resolution_1212 x 2616 
+resolution_1220 x 2712 
+resolution_1242 x 2688 
+resolution_1260 x 2730 
+resolution_1260 x 2800 
+resolution_1284 x 2778 
+resolution_1288 x 2700 
+resolution_1290 x 2796 
+resolution_1344 x 2772 
+resolution_1400 x 3200 
+resolution_1440 x 1920 
+resolution_1440 x 2880 
+resolution_1440 x 2960 
+resolution_1440 x 3040 
+resolution_1440 x 3080 
+resolution_1440 x 3088 
+resolution_1440 x 3120 
+resolution_1440 x 3168 
+resolution_1440 x 3200 
+resolution_1440 x 3214 
+resolution_1440 x 3216 
+resolution_1440 x 3412 
+resolution_1520 x 720 
+resolution_1560 x 720 
+resolution_1600 x 720 
+resolution_1612 x 720 
+resolution_1640 x 720 
+resolution_1644 x 3840 
+resolution_1768 x 2208 
+resolution_1792 x 1920 
+resolution_1812 x 2176 
+resolution_1860 x 2480 
+resolution_1914 x 2160 
+resolution_1916 x 2160 
+resolution_2088 x 2250 
+resolution_2200 x 2480 
+resolution_2220 x 1080 
+resolution_2400 x 1080 
+resolution_2408 x 1080 
+resolution_2460 x 1080 
+resolution_480 x 640 
+resolution_480 x 854 
+resolution_640 x 960 
+resolution_720 x 1280 
+resolution_720 x 1440 
+resolution_720 x 1480 
+resolution_720 x 1520 
+resolution_720 x 1544 
+resolution_720 x 1560 
+resolution_720 x 1600 
+resolution_720 x 1612 
+resolution_720 x 1640 
+resolution_720 x 1650 
+resolution_720 x 1680 
+resolution_750 x 1334 
+resolution_750 x 1580 
+resolution_828 x 1792 
+resolution_854 x 480 
