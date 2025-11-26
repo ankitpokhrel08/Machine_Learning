@@ -1,7 +1,7 @@
 ## Introduction
 This repository contains all my progress during my learning phase for Machine Learning and Data Science. It includes various projects, experiments, and notes that I have compiled over time.
 ## Contents
-Data Analysis
+### Data Analysis
 - Python
 - Numpy
 - Pandas
@@ -15,15 +15,20 @@ Data Analysis
 - Sklearn
 - Scipy
 
-Probability & Statistics
+### Probability & Statistics
 - Covered through theory Codebase Pending 
 
-Machine Learning
+### Machine Learning
 - Simple Linear Regression     
 - Multiple Linear Regression
+- The workflow and why we need `Gradient Descent`
+- Gradient Descent from Scratch
+    - Batch Gradient Descent 
+    - Stochastic Gradient Descent
+    - Mini-Batch Gradient Descent
+- Logistic Regression
 
 
-
-Deep Learning
+### Deep Learning
 - NLP related work
 - Rest is covered in other repository
