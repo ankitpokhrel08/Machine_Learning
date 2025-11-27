@@ -26,7 +26,10 @@ This repository contains all my progress during my learning phase for Machine Le
     - Batch Gradient Descent 
     - Stochastic Gradient Descent
     - Mini-Batch Gradient Descent
-- Logistic Regression
+- Regression Analysis
+    - F-Statistic
+    - R squared and Adjusted R squared
+    - p-Value
 
 
 ### Deep Learning
