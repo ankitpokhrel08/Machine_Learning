@@ -13,7 +13,14 @@ This repository contains all my progress during my learning phase for `Machine L
 - Web Scraping
 - Pandas Profiling
 - Sklearn
+    - Encoding Techniques
+    - Pipeline
 - Scipy
+- Projects on:
+    - Scraping of Smartphone Data from Web and doing Analysis
+    - EDA on titanic Dataset
+    - Data Analysis on National Anthem of the world. More on that [here](https://medium.com/@pokhrelankit/how-i-used-ml-to-find-hidden-bonds-between-countries-through-their-anthems-b8b35122124a)
+    - EDA on Wallmart Sales Data. Link [here](https://medium.com/@pokhrelankit2004/my-first-eda-where-walmarts-sales-met-my-curiosity-044be00872e0)
 
 ### Probability & Statistics
 - Covered through theory
@@ -47,9 +54,19 @@ This repository contains all my progress during my learning phase for `Machine L
     - Homoscedasticity
     - No Autocorrelation
     - Lack of Multicollinearity
+- Feature Engineering
+    - Filter Based Technique
+    - Wrapper method
+    - Embedded Technique
 
-
-
-### Deep Learning
+### Deep Learning [More on this topic in other repo]
+- Perceptron and MLP 
 - NLP related work
+    - Tokenization
+    - Stopword Removal
+    - Stemming and Lemmatization
+    - Name Entity Recognition
+    - Bag of Words
+    - TF-IDF
+    - Spam Detection Project
 - Rest is covered in other repository
