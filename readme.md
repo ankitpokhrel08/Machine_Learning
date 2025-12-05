@@ -58,8 +58,13 @@ This repository contains all my progress during my learning phase for `Machine L
     - Filter Based Technique
     - Wrapper method
     - Embedded Technique
+- Regularization
+    - Bias-Variance Tradeoff
+    - Lasso Regression
+    - Ridge Regression
+    - Elastic Net
 
-### Deep Learning [More on this topic in other repo]
+### Deep Learning [More on this topic in other repo] 
 - Perceptron and MLP 
 - NLP related work
     - Tokenization
