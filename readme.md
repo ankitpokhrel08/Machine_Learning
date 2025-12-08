@@ -63,6 +63,15 @@ This repository contains all my progress during my learning phase for `Machine L
     - Lasso Regression
     - Ridge Regression
     - Elastic Net
+- K-Nearest Neighbors (KNN)
+- Classification Metrics
+    - Confusion Matrix
+    - Accuracy
+    - Precision
+    - Recall
+    - F1 Score
+    - ROC Curve and AUC
+- Logistic Regression
 
 ### Deep Learning [More on this topic in other repo] 
 - Perceptron and MLP 
