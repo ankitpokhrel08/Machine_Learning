@@ -71,7 +71,11 @@ This repository contains all my progress during my learning phase for `Machine L
     - Recall
     - F1 Score
     - ROC Curve and AUC
-- Logistic Regression
+- PCA
+    - Explained Variance
+    - Covariance Matrix
+    - Eigenvalues and Eigenvectors
+    - Dimensionality Reduction
 
 ### Deep Learning [More on this topic in other repo] 
 - Perceptron and MLP 
