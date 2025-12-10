@@ -81,9 +81,11 @@ This repository contains all my progress during my learning phase for `Machine L
         - Leave One Out CV
         - K-Fold CV
         - Stratified K-Fold CV
+    - Data Leakage
     - Hyperparameter Tuning
-    - Grid Search
-    - Randomized Search
+        - Grid Search
+        - Randomized Search
+        - Bayesian Optimization
 
 ### Deep Learning [More on this topic in other repo] 
 - Perceptron and MLP 
