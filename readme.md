@@ -76,6 +76,14 @@ This repository contains all my progress during my learning phase for `Machine L
     - Covariance Matrix
     - Eigenvalues and Eigenvectors
     - Dimensionality Reduction
+- Model Selection and Model tuning
+    - Cross Validation
+        - Leave One Out CV
+        - K-Fold CV
+        - Stratified K-Fold CV
+    - Hyperparameter Tuning
+    - Grid Search
+    - Randomized Search
 
 ### Deep Learning [More on this topic in other repo] 
 - Perceptron and MLP 
