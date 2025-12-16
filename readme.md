@@ -86,6 +86,11 @@ This repository contains all my progress during my learning phase for `Machine L
         - Grid Search
         - Randomized Search
         - Bayesian Optimization
+- Naive Bayes Classifier
+    - Gaussian Naive Bayes
+    - Multinomial Naive Bayes
+    - Bernoulli Naive Bayes
+    - Text Classification using Naive Bayes [Implemented in naive_bayes_text.ipynb]
 
 ### Deep Learning [More on this topic in other repo] 
 - Perceptron and MLP 
