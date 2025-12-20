@@ -90,6 +90,8 @@ This repository contains all my progress during my learning phase for `Machine L
     - Gaussian Naive Bayes
     - Multinomial Naive Bayes
     - Bernoulli Naive Bayes
+    - Complement Naive Bayes
+    - Categorical Naive Bayes
     - Text Classification using Naive Bayes [Implemented in naive_bayes_text.ipynb]
 
 ### Deep Learning [More on this topic in other repo] 
