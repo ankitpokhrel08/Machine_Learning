@@ -93,6 +93,7 @@ This repository contains all my progress during my learning phase for `Machine L
     - Complement Naive Bayes
     - Categorical Naive Bayes
     - Text Classification using Naive Bayes [Implemented in naive_bayes_text.ipynb]
+    - Link to Spam Classifier Project [here](https://spamclassification-ankit.streamlit.app)
 
 ### Deep Learning [More on this topic in other repo] 
 - Perceptron and MLP 
