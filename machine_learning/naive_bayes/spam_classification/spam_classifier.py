@@ -50,22 +50,50 @@ model = load_model()
 # - Stemming
 # Download required NLTK resources (run once)
 try:
-    nltk.data.find('tokenizers/punkt')
+    # Try new punkt_tab first, fall back to punkt if not available
+    try:
+        nltk.data.find('tokenizers/punkt_tab')
+    except LookupError:
+        nltk.data.find('tokenizers/punkt')
     nltk.data.find('corpora/stopwords')
 except LookupError:
-    nltk.download('punkt')
-    nltk.download('stopwords')
+    # Download both punkt_tab and punkt to handle different NLTK versions
+    try:
+        nltk.download('punkt_tab', quiet=True)
+    except:
+        pass
+    nltk.download('punkt', quiet=True)
+    nltk.download('stopwords', quiet=True)
 
 ps = PorterStemmer()
-stop_words = set(stopwords.words('english'))
+try:
+    stop_words = set(stopwords.words('english'))
+except LookupError:
+    # Fallback stopwords if NLTK corpus is not available
+    stop_words = set([
+        'i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', 'your', 'yours',
+        'yourself', 'yourselves', 'he', 'him', 'his', 'himself', 'she', 'her', 'hers',
+        'herself', 'it', 'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves',
+        'what', 'which', 'who', 'whom', 'this', 'that', 'these', 'those', 'am', 'is', 'are',
+        'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'having', 'do', 'does',
+        'did', 'doing', 'a', 'an', 'the', 'and', 'but', 'if', 'or', 'because', 'as', 'until',
+        'while', 'of', 'at', 'by', 'for', 'with', 'through', 'during', 'before', 'after',
+        'above', 'below', 'up', 'down', 'in', 'out', 'on', 'off', 'over', 'under', 'again',
+        'further', 'then', 'once'
+    ])
 
 # Text preprocessing function
 def preprocess_text(text):
     # Lowercase
     text = text.lower()
     
-    # Tokenization
-    tokens = nltk.word_tokenize(text)
+    # Tokenization - with fallback for NLTK issues
+    try:
+        tokens = nltk.word_tokenize(text)
+    except LookupError:
+        # Fallback to simple split if NLTK tokenizer fails
+        st.warning("NLTK tokenizer not available, using simple word splitting")
+        tokens = text.split()
     
     # Remove special characters (keep alphanumeric)
     tokens = [word for word in tokens if word.isalnum()]
