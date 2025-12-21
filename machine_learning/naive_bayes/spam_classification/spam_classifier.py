@@ -8,9 +8,39 @@ import nltk
 import string
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
+import os
 
-# Load the pre-trained model
-model = pickle.load(open('spam_classifier_model.pkl', 'rb'))
+# Load the pre-trained model with error handling
+@st.cache_resource
+def load_model():
+    try:
+        # Try different possible paths for the model file
+        possible_paths = [
+            'spam_classifier_model.pkl',
+            './spam_classifier_model.pkl',
+            os.path.join(os.path.dirname(__file__), 'spam_classifier_model.pkl')
+        ]
+        
+        model_path = None
+        for path in possible_paths:
+            if os.path.exists(path):
+                model_path = path
+                break
+        
+        if model_path is None:
+            st.error("Model file 'spam_classifier_model.pkl' not found in any expected location. Please ensure the model file is uploaded.")
+            return None
+            
+        with open(model_path, 'rb') as file:
+            model = pickle.load(file)
+        st.success("Model loaded successfully!")
+        return model
+    except Exception as e:
+        st.error(f"Error loading model: {str(e)}")
+        return None
+
+# Initialize model
+model = load_model()
 
 # #preprocessing function
 # - Lower case
@@ -53,6 +83,10 @@ def preprocess_text(text):
 
 #predict
 def predict_spam(message):
+    if model is None:
+        st.error("Model not loaded. Cannot make predictions.")
+        return None
+    
     # Preprocess the message
     processed_message = preprocess_text(message)
     # Join tokens back to string for vectorization
@@ -70,12 +104,13 @@ def main():
     if st.button("Classify"):
         if user_input:
             result = predict_spam(user_input)
-            if result == 1:
-                st.error("The message is classified as: SPAM")
-                print("Spam")
-            else:
-                st.success("The message is classified as: HAM (Not Spam)")
-                print("Ham")
+            if result is not None:
+                if result == 1:
+                    st.error("The message is classified as: SPAM")
+                    print("Spam")
+                else:
+                    st.success("The message is classified as: HAM (Not Spam)")
+                    print("Ham")
         else:
             st.warning("Please enter a message to classify.")
 
