@@ -19,8 +19,12 @@ model = pickle.load(open('spam_classifier_model.pkl', 'rb'))
 # - Removing stop words and punctuation
 # - Stemming
 # Download required NLTK resources (run once)
-nltk.download('punkt')
-nltk.download('stopwords')
+try:
+    nltk.data.find('tokenizers/punkt')
+    nltk.data.find('corpora/stopwords')
+except LookupError:
+    nltk.download('punkt')
+    nltk.download('stopwords')
 
 ps = PorterStemmer()
 stop_words = set(stopwords.words('english'))
