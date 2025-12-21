@@ -92,7 +92,7 @@ def preprocess_text(text):
         tokens = nltk.word_tokenize(text)
     except LookupError:
         # Fallback to simple split if NLTK tokenizer fails
-        st.warning("NLTK tokenizer not available, using simple word splitting")
+        # st.warning("NLTK tokenizer not available, using simple word splitting")
         tokens = text.split()
     
     # Remove special characters (keep alphanumeric)
