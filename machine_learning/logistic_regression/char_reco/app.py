@@ -81,7 +81,7 @@ with col1:
     # Create a canvas component with dynamic key
     canvas_result = st_canvas(
         fill_color="rgba(255, 255, 255, 1)",  # White background
-        stroke_width=25,  # Increased from 15 to 25 for better coverage
+        stroke_width=45,  # Increased from 25 to 35 for thicker pen
         stroke_color="rgb(0, 0, 0)",  # Black stroke
         background_color="rgb(255, 255, 255)",
         height=280,
