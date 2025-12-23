@@ -83,7 +83,7 @@ with col1:
         fill_color="rgba(255, 255, 255, 1)",  # White background
         stroke_width=45,  # Increased from 25 to 35 for thicker pen
         stroke_color="rgb(0, 0, 0)",  # Black stroke
-        background_color="rgb(255, 255, 255)",
+
         height=280,
         width=280,
         drawing_mode="freedraw",
