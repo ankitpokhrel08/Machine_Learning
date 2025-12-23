@@ -133,20 +133,6 @@ with col2:
                 probabilities = model.predict_proba(scaled_image)[0]
                 confidence = np.max(probabilities) * 100
                 
-                # Save canvas data for debugging (optional)
-                debug_data = {
-                    'canvas_original': canvas_result.image_data,
-                    'grayscale': gray_image,
-                    'inverted': inverted_image,
-                    'resized_8x8': resized_image,
-                    'normalized_0_16': normalized_image,
-                    'flattened': flattened_image,
-                    'scaled': scaled_image,
-                    'prediction': prediction,
-                    'probabilities': probabilities
-                }
-                np.save('debug_canvas_data.npy', debug_data)
-                
                 # Display results with large font and helpful context
                 if confidence < 70:
                     color = "#ff6b35"  # Orange for low confidence
