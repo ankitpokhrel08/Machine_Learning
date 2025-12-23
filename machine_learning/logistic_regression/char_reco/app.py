@@ -4,6 +4,8 @@ import pickle
 import cv2
 from PIL import Image
 from streamlit_drawable_canvas import st_canvas
+import os
+from pathlib import Path
 
 # Page configuration
 st.set_page_config(
@@ -15,9 +17,14 @@ st.set_page_config(
 # Load the model and scaler
 @st.cache_resource
 def load_model():
-    with open('digit_model.pkl', 'rb') as f:
+    # Get the directory where app.py is located
+    current_dir = Path(__file__).parent
+    model_path = current_dir / 'digit_model.pkl'
+    scaler_path = current_dir / 'scaler.pkl'
+    
+    with open(model_path, 'rb') as f:
         model = pickle.load(f)
-    with open('scaler.pkl', 'rb') as f:
+    with open(scaler_path, 'rb') as f:
         scaler = pickle.load(f)
     return model, scaler
 
