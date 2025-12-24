@@ -104,6 +104,17 @@ This repository contains all my progress during my learning phase for `Machine L
   - One-vs-Rest (OvR)
   - Multinomial Logistic Regression
   - Digit Recognition Web App [here](https://digit-reco-ankit.streamlit.app)
+  - Regularization
+  - Polynomial Features
+- Maximum Likelihood Estimation and relation with Loss Functions
+- Support Vector Machines (SVM)
+  - Hard Margin SVM
+  - Soft Margin SVM
+  - Kernel Trick
+  - Constrained Optimization Problems
+ 
+
+
 
 ### Deep Learning [More on this topic in other repo]
 
