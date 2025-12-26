@@ -112,8 +112,22 @@ This repository contains all my progress during my learning phase for `Machine L
   - Soft Margin SVM
   - Kernel Trick
   - Constrained Optimization Problems
- 
-
+- Decision Trees
+  - Gini Impurity
+  - Entropy and Information Gain
+  - CART Algorithm
+  - Regression Trees
+  - Classification Trees
+  - Pruning
+    - Pre-Pruning 
+    - Post-Pruning 
+- Ensemble Methods
+  - Bagging
+    - Bagging of Decision Trees - Random Forests
+  - Boosting
+    - AdaBoost
+    - Gradient Boosting
+    - XGBoost
 
 
 ### Deep Learning [More on this topic in other repo]
