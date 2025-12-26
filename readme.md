@@ -1,144 +1,118 @@
-## Introduction
+# Machine Learning & Data Science Learning Journey
 
-This repository contains all my progress during my learning phase for `Machine Learning and Data Science`. It includes various projects, experiments, and notes that I have compiled over time.
+This repository documents my learning journey in Machine Learning and Data Science, featuring projects, experiments, and detailed notes compiled throughout my studies.
 
-## Contents
+---
 
-### Data Analysis
+## Data Analysis
 
-- Python
-- Numpy
-- Pandas
-- Matplotlib
-- Seaborn
-- Plotly
+**Tools & Libraries:**
+- Python, Numpy, Pandas
+- Matplotlib, Seaborn, Plotly
 - Streamlit
-- EDA
+- Exploratory Data Analysis (EDA)
 - Web Scraping
 - Pandas Profiling
-- Sklearn
-  - Encoding Techniques
-  - Pipeline
+- Scikit-learn (Encoding Techniques, Pipeline)
 - Scipy
-- Projects on:
-  - Scraping of Smartphone Data from Web and doing Analysis
-  - EDA on titanic Dataset
-  - Data Analysis on National Anthem of the world. More on that [here](https://medium.com/@pokhrelankit/how-i-used-ml-to-find-hidden-bonds-between-countries-through-their-anthems-b8b35122124a)
-  - EDA on Wallmart Sales Data. Link [here](https://medium.com/@pokhrelankit2004/my-first-eda-where-walmarts-sales-met-my-curiosity-044be00872e0)
 
-### Probability & Statistics
+**Projects:**
+- **Smartphone Data Analysis** - Web scraping and comprehensive analysis of smartphone specifications
+- **Titanic Dataset EDA** - Classic exploratory data analysis
+- **National Anthem Analysis** - Discovering hidden patterns between countries through their anthems | [Read More](https://medium.com/@pokhrelankit/how-i-used-ml-to-find-hidden-bonds-between-countries-through-their-anthems-b8b35122124a)
+- **Walmart Sales EDA** - My first exploratory data analysis project | [Read More](https://medium.com/@pokhrelankit2004/my-first-eda-where-walmarts-sales-met-my-curiosity-044be00872e0)
 
-- Covered through theory
-  - Hypothesis Testing
-  - Bayes Theorem
-  - Probability Distributions
-  - Descriptive Statistics
-  - Inferential Statistics
-  - Central Limit Theorem
-  - Correlation and Regression
-  - ANOVA
-  - Chi-Square Test
-  - Sampling Techniques
+---
 
-### Machine Learning
+## Probability & Statistics
 
-- Simple Linear Regression
-- Multiple Linear Regression
-- Polynomial Linear Regression
-- The workflow and why we need `Gradient Descent`
-- Gradient Descent from Scratch
-  - Batch Gradient Descent
-  - Stochastic Gradient Descent
-  - Mini-Batch Gradient Descent
-- Regression Analysis
-  - F-Statistic
-  - R squared and Adjusted R squared
-  - p-Value
-- Regression Assumptions
-  - Linearity
-  - Normality of residuals
-  - Homoscedasticity
-  - No Autocorrelation
-  - Lack of Multicollinearity
-- Feature Engineering
-  - Filter Based Technique
-  - Wrapper method
-  - Embedded Technique
-- Regularization
-  - Bias-Variance Tradeoff
-  - Lasso Regression
-  - Ridge Regression
-  - Elastic Net
+- Hypothesis Testing
+- Bayes Theorem
+- Probability Distributions
+- Descriptive Statistics
+- Inferential Statistics
+- Central Limit Theorem
+- Correlation and Regression
+- ANOVA
+- Chi-Square Test
+- Sampling Techniques
+
+---
+
+## Machine Learning
+
+### Regression
+- Simple, Multiple, and Polynomial Linear Regression
+- Gradient Descent (Batch, Stochastic, Mini-Batch) - implemented from scratch
+- Regression Analysis (F-Statistic, R², Adjusted R², p-Value)
+- Regression Assumptions (Linearity, Normality, Homoscedasticity, No Autocorrelation, Multicollinearity)
+- Regularization Techniques (Lasso, Ridge, Elastic Net)
+- Bias-Variance Tradeoff
+
+### Feature Engineering
+- Filter Based Technique
+- Wrapper Method
+- Embedded Technique
+
+### Classification
 - K-Nearest Neighbors (KNN)
-- Classification Metrics
-  - Confusion Matrix
-  - Accuracy
-  - Precision
-  - Recall
-  - F1 Score
-  - ROC Curve and AUC
-- PCA
-  - Explained Variance
-  - Covariance Matrix
-  - Eigenvalues and Eigenvectors
-  - Dimensionality Reduction
-- Model Selection and Model tuning
-  - Cross Validation
-    - Leave One Out CV
-    - K-Fold CV
-    - Stratified K-Fold CV
-  - Data Leakage
-  - Hyperparameter Tuning
-    - Grid Search
-    - Randomized Search
-    - Bayesian Optimization
-- Naive Bayes Classifier
-  - Gaussian Naive Bayes
-  - Multinomial Naive Bayes
-  - Bernoulli Naive Bayes
-  - Complement Naive Bayes
-  - Categorical Naive Bayes
-  - Text Classification using Naive Bayes [Implemented in naive_bayes_text.ipynb]
-  - Link to Spam Classifier Project [here](https://spamclassification-ankit.streamlit.app)
-- Logistic Regression
-  - One-vs-Rest (OvR)
-  - Multinomial Logistic Regression
-  - Digit Recognition Web App [here](https://digit-reco-ankit.streamlit.app)
-  - Regularization
-  - Polynomial Features
-- Maximum Likelihood Estimation and relation with Loss Functions
-- Support Vector Machines (SVM)
-  - Hard Margin SVM
-  - Soft Margin SVM
-  - Kernel Trick
-  - Constrained Optimization Problems
-- Decision Trees
-  - Gini Impurity
-  - Entropy and Information Gain
-  - CART Algorithm
-  - Regression Trees
-  - Classification Trees
-  - Pruning
-    - Pre-Pruning 
-    - Post-Pruning 
-- Ensemble Methods
-  - Bagging
-    - Bagging of Decision Trees - Random Forests
-  - Boosting
-    - AdaBoost
-    - Gradient Boosting
-    - XGBoost
+- Naive Bayes Classifier (Gaussian, Multinomial, Bernoulli, Complement, Categorical)
+  - Text Classification implementation
+  - **Spam Classifier** | [Live Demo](https://spamclassification-ankit.streamlit.app)
+- Logistic Regression (One-vs-Rest, Multinomial)
+  - **Digit Recognition Web App** | [Live Demo](https://digit-reco-ankit.streamlit.app)
+- Support Vector Machines (Hard Margin, Soft Margin, Kernel Trick)
+- Decision Trees (CART, Gini Impurity, Entropy, Pruning)
+
+### Evaluation Metrics
+- Confusion Matrix
+- Accuracy, Precision, Recall, F1 Score
+- ROC Curve and AUC
+
+### Dimensionality Reduction
+- Principal Component Analysis (PCA)
+- Explained Variance
+- Covariance Matrix
+- Eigenvalues and Eigenvectors
+
+### Model Selection & Tuning
+- Cross Validation (Leave One Out, K-Fold, Stratified K-Fold)
+- Data Leakage Prevention
+- Hyperparameter Tuning (Grid Search, Randomized Search, Bayesian Optimization)
+
+### Ensemble Methods
+- **Voting Ensemble** (Hard Voting, Soft Voting)
+- **Bagging** (Bagging Regressor/Classifier, Random Forests)
+- **Boosting** (AdaBoost, Gradient Boosting, XGBoost)
+
+### Advanced Topics
+- Maximum Likelihood Estimation and Loss Functions
+- Constrained Optimization Problems
+
+---
+
+## Deep Learning
+
+*Note: Detailed deep learning work is maintained in a separate repository*
+
+### Natural Language Processing
+- Tokenization
+- Stopword Removal
+- Stemming and Lemmatization
+- Named Entity Recognition
+- Bag of Words
+- TF-IDF
+- Spam Detection Project
+
+### Neural Networks
+- Perceptron and Multi-Layer Perceptron (MLP)
 
 
-### Deep Learning [More on this topic in other repo]
+## Live Projects
 
-- Perceptron and MLP
-- NLP related work
-  - Tokenization
-  - Stopword Removal
-  - Stemming and Lemmatization
-  - Name Entity Recognition
-  - Bag of Words
-  - TF-IDF
-  - Spam Detection Project
-- Rest is covered in other repository
+- [Spam Classifier](https://spamclassification-ankit.streamlit.app)
+- [Digit Recognition App](https://digit-reco-ankit.streamlit.app)
+
+---
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/ankitpokhrel)
